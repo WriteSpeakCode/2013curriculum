@@ -150,3 +150,21 @@ Maria T Sciarrino is a feminist, guitar enthusiast, radio host, and user experie
 - Colors
   - [colourlovers.com](http://colourlovers.com)
   - [colorschemedesigner.com](http://colorschemedesigner.com)
+
+## Speaker Feedback Panelists
+
+**Kimberly Campbell **
+
+Kimberly Campbell is a communications professional whose experience spans a broad range of industries in the areas of business, philanthropy, and health and human services development. Kimberly has spoken extensively on successful communications strategies, corporate sustainability, and combating gender stereotypes in the workplace, with diverse audiences such as the [American Association of University Women](http://www.aauw.org/), [UN Women](http://www.unwomen.org/), the [Society of Human Resource Management](http://www.shrm.org/Pages/default.aspx), and the [New York State DELTA Coalition](http://www.nyscadv.org/delta/).
+
+**Marianne Bellotti** 
+
+Marianne Bellotti is the CTO of Exversion, a freelance developer evangelist and hackathon vet. She's won thousands of dollars in prizes hacking at events like Startup Bus, Photo Hack Day I & II, API Hack Day I & II, Hackday.tv, GDI Hackathon in the Hamptons for Humanity, Startup Weekend NYC, and Meetup's Battle of the Braces. She's also spoken at events like [Ladies Who Code Conf](http://www.ladieswhocode.com/2012/), [BACON](http://devslovebacon.com/), and [ClojureNYC](http://www.meetup.com/Clojure-NYC/). She hacks in PHP, Python, and Clojure and is particularly interested in visualizations, data, and machine learning.
+
+**Marisa Warren **
+
+[Marisa Warren](http://www.cavalo-consulting.com/) is the founder of [Cavalo Consulting LLC](http://www.cavalo-consulting.com/), and a highly awarded Global Channels Executive with 17 years experience working for companies such as SAP and Microsoft. She also currently serves as President for [Australian Women in New York](https://www.americanaustralian.org/awny/), and is an Advisory Board Member for the [GlamourGals Foundation](GlamourGals Foundation).
+
+**Rebecca Garcia**
+
+[Rebecca Garcia](http://geekgirlweb.com/) is a self-taught developer, who enjoys tinkering for social good. She co-founded [CoderDojo NYC](http://coderdojo.com), wanting to share her experience of attending and mentoring at a summer program at MIT. Previously she was CTO of Greatist a health and fitness media startup, and a developer at [DoSomething.org](http://dosomething.org/) a non-profit for youth and social change. She’s all about gender and equality in tech, and when not coding can be found baking pies and salsa dancing.
