@@ -106,3 +106,47 @@ Rushaine McBean is a full stack developer at the Levo League. She primarily code
   - Intro to MVC framework in javascript (compare & contrast or intro to one or many)  - Intro to CoffeeScript  - Understanding jQuery events- Java
   - Intro to Android Development  - JVM Basics  - Compare JVM languages to Java  - Java Generics  - JVM tuning
   - BDD with Java
+- PHP  - Compare & contract MVC frameworks
+  - Object­oriented PHP  - Advanced WordPress  - Creating a WordPress plugin  - Testing, Caching, Scaling- Ruby  - Intro to Ruby or Rails  - Intro to Object­oriented programming in Ruby  - Rails stumbling blocks
+  - What’s new in Ruby 2? What’s new in Rails 4?
+  - Presenter/decorator patterns
+  - Concerns vs. Service Objects
+  - Fat models, skinny controllers
+  - Rails performance problems and solutions- Python
+  - What’s coming in Python 3?
+  - Intro to Django
+  - Data analysis tools for Python
+  - Writing Django Packages
+  - Using Redis with Django
+  - Django Caching Options- Scientific/Technical Computing
+  - Compare and contrast languages  - Performance Benchmarking  - Using R  - Intro to Julia  - Typing in different languages  - Intro to Machine Learning  - Parallel Computing techniques  - Real­time analysis  - Big Data ­ MapReduce, Hadoop, Cassandra, etc  - Predictive Models
+### Talk Proposal Brainstorm
+## How to create a great presentation!
+### Martha Denton 
+
+[Martha Denton](http://www.thepresentationschool.com/), [The Founder of The Presentation School](http://www.writespeakcode.com/www.ThePresentationSchool.com), is a communication strategist and practitioner, who focuses on: helping speakers understand their audiences, write their content, design their slides, and deliver the best presentations possible. She started doing this at McKinsey & Company, where she was for 11 years. With The Presentation School, she has worked with a wide range of individuals from start-ups to Fortune 500 companies to Olympic Gold Medalists. She has been proud to serve as Presentation Coach for [Ignite NYC](http://www.ignitenyc.org/) & [TEDxHarlem](https://twitter.com/tedxharlem), and has curated rapid fire segments for The Economist. She has also just signed up for CodeAcademy.
+
+## Talk Proposal Feedback**One member of your group will present your talk proposal to another group and a conference organizer.****Instructions**:1. Choose 1 person to present your talk proposal2. Put any finishing touches on the proposal3. **Group A presents**4. Group B and conference organizer give feedback5. **Group B presents**6. Group A and conference organizer gives feedback**Talk proposal feedback guidelines**:- What is this talk about?- Does it have enough relevance to conference attendees? (“What’s in it for me?”)- Will this talk fit in the allotted time frame?- Has the group thought through all the points they want to make?
+**Feedback Notes**
+**Head back to the main room for the Conference Organizer Panel!**
+## Conference Organizer Panel
+**Francis Hwang**
+
+[Francis Hwang](http://fhwang.net/) is a writer and software engineer. An active member of the Ruby community, he was the founder of NYC.rb, founding organizer of GoRuCo, and a four-time RubyConf speaker. He is currently enjoying his Brooklyn-based consulting lifestyle.
+
+**Gloria W** 
+
+Gloria W is a Python developer and *NIX systems admin with 20+ years experience in embedded systems and app design and development. Most recently, Gloria is specializing in “from-scratch” software design and development for start-ups in the NYC area. Gloria is the organizer of [PyGotham](http://www.pygotham.org/) and the [NYC Python Meetup](http://www.meetup.com/nycpython/).
+
+**Maria T Sciarrino** 
+
+Maria T Sciarrino is a feminist, guitar enthusiast, radio host, and user experience strategist from Philadelphia, PA.
+
+**Rebecca Miller-Webster** 
+
+[Rebecca Miller-Webster](http://www.rebeccamiller-webster.com/) is currently a Ruby and Javascript developer at [How About We](http://couples.howaboutwe.com/). She spent the last 10 years building software in a variety of languages for large corporations, non-profits, and start-ups, including as VP of Engineering for an early-stage start up in NYC. Rebecca founded [Write/Speak/Code](http://www.writespeakcode.com/), co-organizes [GORUCO](http://goruco.com/) and makes [Patterned](http://www.patternedapp.com/). She also makes [music](http://www.thebeccacomplex.com/) and jewelry and loves cupcakes, pizza, and crab rangoon. Rebecca lives in Sunnyside, Queens with her husband and black pug. And she changes her hair. A lot.
+
+## Create your slides!**For the next 45 minutes, you’ll return to your breakout rooms to make slides for your group presentation.****You need**:- Phone or camera with video recording capabilities- Computers- Presentation software**Keep in mind**:- Each person should speak for a few minutes, so make sure everyone has 1­2 slides each.- Group volunteers and speaker feedback panelists may come around to observe and help out- You may want to create an outline together first- You may want to either have individuals create slides based on the outline or create slides together andthen decided who will present each slide afterwards- Everyone should speak for a similar amount of time.**Instructions**:1. Create an outline of your talk together2. Decide what program you will use to create slides ­­ OpenOffice, PowerPoint, KeyNote, Google Docs, etc.3. Pick a color scheme4. Decide whose computer you will use for the presentation5. Create slides from the outline and decide who will talk about each slide (not necessarily in that order)**Resources**:- Images  - [photopin.com](http://photopin.com)  - [compfight.com](http://compfight.com)  - [foter.com](http://foter.com)
+- Colors
+  - [colourlovers.com](http://colourlovers.com)
+  - [colorschemedesigner.com](http://colorschemedesigner.com)
