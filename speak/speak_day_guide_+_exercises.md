@@ -168,3 +168,21 @@ Marianne Bellotti is the CTO of Exversion, a freelance developer evangelist and 
 **Rebecca Garcia**
 
 [Rebecca Garcia](http://geekgirlweb.com/) is a self-taught developer, who enjoys tinkering for social good. She co-founded [CoderDojo NYC](http://coderdojo.com), wanting to share her experience of attending and mentoring at a summer program at MIT. Previously she was CTO of Greatist a health and fitness media startup, and a developer at [DoSomething.org](http://dosomething.org/) a non-profit for youth and social change. She’s all about gender and equality in tech, and when not coding can be found baking pies and salsa dancing.
+
+## Present
+
+**Instructions**:
+
+1. Exchange your phone/camera with someone in the other group2. Meet your speaker feedback panelist3. Group B sets up slides4. **Group B presents while Group A records**5. Group A gives and speaker feedback panelist gives feedback6. Group A sets up slides7. **Group A presents while Group B records**8. Group B and speaker feedback panelist gives feedback
+**Feedback Notes**
+**Head back to the main room for the closing!**
+## Closing
+**Write and Share**
+
+| Prompt                            | Your Response || --------------------------------- |               || Your speaking goals               |               |
+| 3 next action steps               |               |
+| Your "A-ha!" moments or takeaways |               |
+
+**Then pay it forward!**
+
+Who can you ask to speak and what about?
